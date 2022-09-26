@@ -6,7 +6,6 @@
 			<stroke
 				android:color="#FF333333"
 				android:width="2dp"/>
-
 <!--			To prevent crash view-->
 			<padding android:bottom="0dp"
 				android:left="0dp"
